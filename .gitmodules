@@ -5,7 +5,3 @@
 [submodule "Racmacs"]
 	path = Racmacs
 	url = https://github.com/acorg/racmacs
-[submodule "r3js"]
-	path = r3js
-	url = https://github.com/shwilks/r3js
-	registered = false
